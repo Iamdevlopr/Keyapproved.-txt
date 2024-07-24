@@ -1,1 +1,6 @@
 
+## Jokes
+Tell me a joke|Why did the scarecrow win an award?|Because he was outstanding in his field.
+Tell me another joke|What do you call a bear with no teeth?|A gummy bear.
+Another one joke|Why did the bicycle fall over?|Because it was two-tired.
+Tell me another one joke|What did the ocean say to the beach?|Nothing, it just waved.
