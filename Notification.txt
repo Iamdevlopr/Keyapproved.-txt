@@ -1,5 +1,1 @@
-1|This is the first temporary notification message.
-2|Don't forget to check out our latest updates on the website!
-3|Important: Maintenance will be performed tonight at 11 PM.
-4|New feature alert! Check out the new options in the settings menu.
-5|Reminder: Your subscription is about to expire. Please renew. 
+
