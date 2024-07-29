@@ -1,1 +1,1 @@
-1|Hello dear users 
+1. Notification message one.
